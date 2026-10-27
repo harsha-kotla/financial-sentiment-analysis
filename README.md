@@ -1,0 +1,1 @@
+Code accompanying my research paper on Tesla stock price prediction using Twitter sentiment analysis. Analyzes approximately 40,000 tweets to investigate the relationship between public sentiment and Tesla stock movements, incorporating sentiment analysis and ARIMA time-series forecasting.
